@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\it\Documents\자바\java_git_fork2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+318609694.index
+2706405386.index
